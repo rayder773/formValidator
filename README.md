@@ -1,5 +1,7 @@
 # formValidator
 
+https://rayder773.github.io/formValidator/
+
 Field `name` is requaired from 1 - 100 symbols and alpha only
 
 Field `adress 1` is requaired from 1 - 100 symbols and can be alphanumeric
