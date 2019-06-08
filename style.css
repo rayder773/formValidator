@@ -16,7 +16,7 @@ h1 {
 }
 
 .input {
-   width: 300px !important;
+   width: 100% !important;
    margin: auto;
    margin-bottom: 20px;
 }
@@ -31,7 +31,7 @@ h1 {
 }
 
 .buttons {
-  margin-left: 80px;
+  margin-left: 43px;
   display: flex;
 }
 
